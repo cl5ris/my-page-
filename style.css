@@ -1,0 +1,50 @@
+
+
+nav{
+    display: flex;
+    width: 100%;
+    min-height: 8vh;
+    align-items: center;
+    justify-content: space-around;
+    background-image:image(https://pin.it/KZLNSoZ)
+  }
+
+  .nav-link {
+    list-style: none;
+    display: inline;
+    padding: 0 20px;
+    font-size: 20px;
+  }
+
+
+
+body {
+    background-color: #F3C9B1;
+    font-family: 'Source Serif Pro', serif;
+    margin: 10px 70px
+    
+}
+
+a { 
+    color: #1C7301 
+}
+
+.menu {
+    text-decoration: none;
+}
+
+.lista {
+    list-style: none;
+}
+
+.subtitulo {
+    margin: 20px
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+
